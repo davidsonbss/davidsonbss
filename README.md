@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Spring, React, Java, Postman,Postgresql 12, e pgAdmin, Heroku CLI, NodeJS 16.x
+
 <!--
 **davidsonbss/davidsonbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
